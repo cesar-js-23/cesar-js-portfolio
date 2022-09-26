@@ -42,8 +42,8 @@ export default function ProjectSection() {
       title: "Rick & Morty",
       techStack: "React, CSS, Rick & Morty API",
       description:
-        "A portfolio website for Alejandro Balea, Game Developer. It has a customization feature that allows the user to change the style of the website. (Work in progress)",
-      image: "AppRick&Morty",
+        "A Rick & Morty application that shows the characters of the series.",
+      image: "AppRickyMorty",
       github: "https://github.com/cesar-js-23/rick-morty",
       link: "https://rick-and-morty23.netlify.app/",
     },
